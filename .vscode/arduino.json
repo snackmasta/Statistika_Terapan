@@ -1,0 +1,5 @@
+{
+    "sketch": "Statistika_Terapan.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7"
+}
